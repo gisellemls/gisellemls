@@ -6,12 +6,10 @@
   
   **Desenvolvedora Front-end | Criativa | Autodidata**
 
-  <a href="https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/gisellemls/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:giselledemelolimasousa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisellemls) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gisellemls) 
+
+
+
 
 </div>
 
@@ -49,4 +47,12 @@ Aqui está o arsenal que uso para tirar ideias do papel:
 | **Conversor de Moedas** | Aplicação funcional consumindo lógica de conversão em tempo real. | `JavaScript` |
 
 ---
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=gisellemls&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gisellemls&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellemls&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=gisellemls&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
