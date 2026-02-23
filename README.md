@@ -4,7 +4,7 @@
   
   ## Olá, eu sou a Giselle Sousa! 👋
   
-  **Desenvolvedora Front-end | Criativa | Autodidata**
+  **Desenvolvedora Full-Stack | Criativa | Autodidata**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gisellemls) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gisellemls) 
 
