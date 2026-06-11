@@ -19,7 +19,7 @@
 Sou uma desenvolvedora focada em criar interfaces web responsivas e interativas. Atualmente, dedico meus dias a codar projetos práticos, aprimorando minha lógica e senso estético. 
 
 - 🔭 **Trabalhando atualmente:** Projetos Freelance & Portfólio Pessoal.
-- 🌱 **Estudando:** JavaScript Avançado e Design de Interfaces.
+- 🌱 **Estudando:** JavaScript Avançado, React e TypeScript
 - ⚡ **Fato curioso:** Codar é meu hobby diário e busco o pixel perfect!
 
 ---
